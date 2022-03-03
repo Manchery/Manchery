@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jialong Wu (Manchery)</h1>
 <h3 align="center">An active star giver from China</h3>
 
-- 🔭 I’m currently a last-year undergraduate student in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
-- 📘 I’m also studying for a second Bachelor's degree in Pure and Applied Mathematics.
+- 🔭 I'm currently a last-year undergraduate student in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+- 📘 I'm also studying for a second Bachelor's degree in Pure and Applied Mathematics.
 - 🌱 I'll pursue my PhD degree in Tsinghua University from 2022, advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
 - ✨ I'm interested in deep learning, machine learning and mathematics.
 - 💻 I used to enjoy competitive programming and compete in Olympiad in Informatics (OI). <a href="https://codeforces.com/profile/manchery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manchery" height="24" width="32" /></a>
