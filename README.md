@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jialong Wu (Manchery)</h1>
-<h3 align="center">An active star giver from China</h3>
+<h3 align="center">An active star giver from China <img src="https://komarev.com/ghpvc/?username=manchery&color=blueviolet"></h3> 
 
 - 🔭 I'm currently a last-year undergraduate student in [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 - 📘 I'm also studying for a second Bachelor's degree in Pure and Applied Mathematics.
