@@ -6,7 +6,7 @@
 - ✨ I'm interested in deep learning, machine learning and mathematics.
 - 💻 I used to enjoy competitive programming and compete in Olympiad in Informatics (OI). <a href="https://codeforces.com/profile/manchery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manchery" height="24" width="32" /></a>
 <a href="https://www.codechef.com/users/manchery" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manchery" height="24" width="32" /></a>
-<a href="https://www.topcoder.com/members/Manchery/details/?track=DATA_SCIENCE&subTrack=SRM" target="blank"><img align="center" src="icons/topcoder.svg" alt="manchery" height="24" width="32" /></a>
+<a href="https://platform.topcoder.com/profile/Manchery/details/?track=DATA_SCIENCE&subTrack=SRM" target="blank"><img align="center" src="icons/topcoder.svg" alt="manchery" height="24" width="32" /></a>
 - 📝 My favorite motto is *Sidere mens eadem mutato* (Latin, 繁星纵变，智慧永恒 in Chinese).
 - 😄 I'm an idealist and a perfectionist. I'm also an Apple fan and a Pokémon fan.
 - ❤️ I'm lucky to have my love LYW in my life.
